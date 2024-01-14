@@ -9,16 +9,16 @@ Now, although X Education gets a lot of leads, its lead conversion rate is very 
 X Education has appointed you to help them select the most promising leads, i.e. the leads that are most likely to convert into paying customers. The company requires you to build a model wherein you need to assign a lead score to each of the leads such that the customers with a higher lead score have a higher conversion chance and the customers with a lower lead score have a lower conversion chance. The CEO, in particular, has given a ballpark of the target lead conversion rate to be around 80%.
 
 # Solution Methodology
-Data cleaning and data Inspection.
-EDA 
-Dummy Variable Creation
-Test-Train split
-Feature scaling
-Dropping highly correlated dummy variables
-Logistic Model Building (RFE Rsquared VIF and pvalues)
-Model Evaluation 
-Checking Accuracy
-Finding Optimal Cutoff Point
-Making predictions on test set
+1. Data cleaning and data Inspection
+2. EDA 
+3. Dummy Variable Creation
+4. Test-Train split
+5. Feature scaling
+6. Dropping highly correlated dummy variables
+7. Logistic Model Building (RFE Rsquared VIF and pvalues)
+8. Model Evaluation 
+9. Checking Accuracy
+10. Finding Optimal Cutoff Point
+11. Making predictions on test set
 
 
